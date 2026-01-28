@@ -5,6 +5,11 @@
 _This project was developed for the Unity Livestream: [VFX Grass with VFX Graph| Clocked and Loaded](https://www.youtube.com/watch?v=4nrv6RK2KNk).
 It demonstrated the outcome of a 10-minute, one-hour, and one-day exercise that aimed to create grass with particles thanks to VFX graph. I hope it will be useful to the Unity community. Everything in this project is free for everyone to use and is licensed under CC0._
 
+## Project Version
+* Unity 6.3.5f2 LTS
+* Universal Render Pipeline 17.0.3
+* Visual Effect Graph 17.0.3
+
 ## Assets
 Some high-quality CC0 assets have been obtained from the website [Polyhaven](https://polyhaven.com/).
 
