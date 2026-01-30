@@ -1,8 +1,8 @@
-# VFX Grass with VFXGraph—Clocked and Loaded
+# VFX Grass with VFXGraph—Clocked
 <img width="2845" height="1601" alt="image" src="https://github.com/user-attachments/assets/3ff46381-869f-4567-b44a-f3408121b928" />
 
 
-_This project was developed for the Unity Livestream: [VFX Grass with VFX Graph| Clocked and Loaded](https://www.youtube.com/watch?v=4nrv6RK2KNk).
+_This project was developed for the Unity Livestream: [VFX Grass with VFX Graph| Clocked](https://www.youtube.com/watch?v=4nrv6RK2KNk).
 It demonstrated the outcome of a 10-minute, one-hour, and one-day exercise that aimed to create grass with particles thanks to VFX graph. I hope it will be useful to the Unity community. Everything in this project is free for everyone to use and is licensed under CC0._
 
 ## Project Version
